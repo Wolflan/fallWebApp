@@ -1,0 +1,46 @@
+
+.cor {
+	background-color: #FFFFFF;
+}
+
+.painel {
+	margin-top: 5%;
+	border-style: hidden;
+	border-radius: 10px;
+}
+
+.esquerda {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+	border: 1px solid black;
+  box-shadow: 5px 5px 5px #000;
+  border-radius: 12	px;
+}
+
+.fundo {
+	background-color: #337ab7;
+}
+
+.fundo2 {
+	background-color: #e6122e;
+}
+
+.fundo3 {
+	background-color: #e6122e;
+}
+
+.form {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.imagem {
+	margin-bottom: 20px;
+}
+
+.divider {
+	margin-top: 10px;
+}

@@ -1,0 +1,71 @@
+
+body {
+  font-family: sans-serif;
+}
+
+.badge {
+  font-size: 30px;
+}
+
+.panel-title {
+  font-size: 30px;
+}
+.main {
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px #888;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: lightblue;
+  margin: 25px;
+  margin-left:15px;
+  margin-right:15px;
+}
+
+.vetor {
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px #888;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: rgb(244, 76, 5);
+  margin: 25px;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 25px;
+}
+
+.impact {
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px #888;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: #f8fc08;
+  margin: 25px;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 25px;
+}
+
+.eixos {
+  border: 1px solid black;
+  box-shadow: 10px 10px 5px #888;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: #12e7ed;
+  margin: 25px;
+  margin-left:auto;
+  font-size: 25px;
+  margin-right:auto;
+}
+
+.logo {
+  width:275px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 15px;
+}
+
+.container {
+  -webkit-perspective: 300;
+  perspective: 300;
+}
